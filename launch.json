@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "compounds": [
+    {
+      "name": "Run All Tasks",
+      "configurations": [],
+      "preLaunchTask": "Run All"
+    }
+  ],
+  "tasks": [
+    {
+      "label": "Run All",
+      "dependsOn": ["Run Command 1", "Run Command 2", "Run Command 3"]
+    }
+  ]
+}
