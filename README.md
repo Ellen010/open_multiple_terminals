@@ -6,7 +6,9 @@ Steps to follow to properly insert the code:
 3. Choose "Create tasks.json file from template".
 4. Choose "Others".
 5. Modify "tasks.json" (tasks are variable. The example of the code is in this depository).
-6. Create and modify "launch.json" (like in the depository).
-7. Install "Auto Run Tasks".
-8. Modify "settings.json" (like in the depository).
-9. Tasks will run automatically in separate terminals once you start VSCode.
+6. In command line, type "Debug: Open launch.json" and select it.
+7. Choose "add configuration", select "Compound".
+9. Create and modify "launch.json" (like in the depository).
+10. Install "Auto Run Tasks".
+11. Modify "settings.json" (like in the depository).
+12. Tasks will run automatically in separate terminals once you start VSCode.
