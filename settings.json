@@ -1,0 +1,8 @@
+{
+    "auto-task-runner.tasks": [
+      "Start the server",
+      "Open MongoDB",
+      "Start the test"
+    ]
+  }
+  
